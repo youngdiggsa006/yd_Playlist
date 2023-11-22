@@ -1,6 +1,5 @@
 /**
  * @author Amaris Young-Diggs
- * @version CMSC 256 Section 001
  * @description this is the MySong class which has 3 constructors
  * that all call the super class
  *
