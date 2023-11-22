@@ -1,9 +1,4 @@
-/**
- *   Debra Duke  
- *   Computer Science Department
- *   College of Engineering
- *   Virginia Commonwealth University
- */
+
 package cmsc256;
 
 
