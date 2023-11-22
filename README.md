@@ -1,0 +1,2 @@
+# yd_Playlist
+This project involves the creation of a songlist (playlist) management system, incorporating features such as adding songs to the end, removing songs, inserting songs, and clearing the entire playlist. The implementation utilizes the bridges-java-3.4.2.jar library, serving as the underlying data structure. This project also facilitates the retrieval of songs based on a specified artist. The core functionalities are orchestrated through the designated data structure.
